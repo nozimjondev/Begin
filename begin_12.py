@@ -1,0 +1,6 @@
+import math 
+a = 2
+b = 4
+c = math.sqrt(a ** 2 + b **2)
+P = a + b + c 
+print("c = ", c, 'P= ', P)

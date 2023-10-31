@@ -1,0 +1,6 @@
+a = int(input('Enter a: '))
+print(f'A2 = {a ** 2}')
+print(f'A3 = {a ** 3}')
+print(f'A5 = {a ** 5}')
+print(f'A10 = {a ** 10}')
+print(f'A15 = {a ** 15}')
